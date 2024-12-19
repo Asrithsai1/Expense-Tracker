@@ -74,7 +74,7 @@ To set up the project locally, follow these steps:
    ```bash
    npm install 
    ```
-**  React:**
+**React:**
 
 ```bash
 npm install react react-dom
@@ -125,9 +125,6 @@ npm install dotenv
 2. Add, edit, or delete expenses as needed.
 3. View and analyze your spending patterns on the dashboard.
 
-   ```bash
-   git push origin feature-name
-   ```
 
 
 
