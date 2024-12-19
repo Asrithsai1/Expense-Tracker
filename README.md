@@ -62,57 +62,57 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository:
+**1. Clone the repository:**
    ```bash
    https://github.com/Asrithsai1/Expense-Tracker.git
    ```
-2. Navigate to the project directory:
+**2. Navigate to the project directory:**
    ```bash
    cd expensely
    ```
-3. Install dependencies:
+**3. Install dependencies:**
    ```bash
    npm install 
    ```
-  React:
+**  React:**
 
 ```bash
 npm install react react-dom
 ```
-React Router (for routing):
+**React Router (for routing):**
 ```bash
 npm install react-router-dom
 ```
-Redux (for state management):
+**Redux (for state management):**
 ```bash
 npm install redux react-redux @reduxjs/toolkit
 ```
-Firebase (for authentication and database):
+**Firebase (for authentication and database):**
 ```bash
 npm install firebase
 ```
-Axios (for API requests, if needed):
+**Axios (for API requests, if needed):**
 ```bash
 npm install axios
 ```
-React-Icons (for icons):
+**React-Icons (for icons):**
 ```bash
 npm install react-icons
 ```
-Development Dependencies
-ESLint (for code linting):
+**Development Dependencies**
+**ESLint (for code linting):**
 ```bash
 npm install eslint --save-dev
 ```
-Prettier (for code formatting):
+**Prettier (for code formatting):**
 ```bash
 npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
 ```
-dotenv (for environment variables):
+**dotenv (for environment variables):**
 ```bash
 npm install dotenv
 ```
-4. Start the development server:
+**4. Start the development server:**
    ```bash
    npm start
    ```
